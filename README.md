@@ -11,3 +11,4 @@ Document which serve people who starting to learn Node JS and Postgres for devel
 | Blender - Doing 1 | [Cup with cloth](https://www.youtube.com/watch?v=SX-uPycw_4Q) | Intermediate |
 | Blender - Doing 2 | [Bronze Text](https://www.youtube.com/watch?v=iaflnNvZkD8) | Intermediate |
 | Blender- Doing 3 | [Soccer Ball](https://www.youtube.com/watch?v=OLZv2rMV07c) | Intermediate |
+| Blender - Advanced (without voice) | [All in all by doing](https://www.youtube.com/playlist?list=PLnxa7G9tnhNc5JOFktcyAPMoTkHNcyeM4) | Advanced |
